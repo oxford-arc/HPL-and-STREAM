@@ -18,8 +18,8 @@ For HPL, additionally, the (projected) results for
 
 should be supplied.
 
-Please also confirm library versions and compiler options used.
+Please also confirm library versions and compiler options used, and include your 'HPL.dat' file in your response.
 
 As part of acceptance testing, we will be verifying the submitted results; results measured on the delivered cluster must be within 10% of the submitted values.
 
-Note that we will also, as part of acceptance testing, run HPL compiled using the Intel commpiler, Intel MPI, and MKL.
+Note that we will also, as part of acceptance testing, run HPL compiled using the Intel commpiler, Intel MPI, and MKL (versions 2019.1 / 2019.6 / 2019, respectively).
