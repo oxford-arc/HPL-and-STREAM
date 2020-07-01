@@ -13,7 +13,7 @@ Single node benchmarking results for both HPL and STREAM must be provided for
 
 For HPL, additionally, the (projected) results for 
 
-- and interconnnect island
+- an interconnnect island
 - the full solution
 
 should be supplied.
